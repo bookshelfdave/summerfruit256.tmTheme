@@ -5,18 +5,18 @@
 	<key>author</key>
 	<string>Dave Parfitt</string>
 	<key>name</key>
-	<string>summerfruit256</string>
+	<string>summerfruit256_dark</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#303030</string>
 				<key>caret</key>
 				<string>#438EC3</string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#F8F8F2</string>
 				<key>invisibles</key>
 				<string>#438EC3</string>
 				<key>lineHighlight</key>
@@ -61,7 +61,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#000000</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>

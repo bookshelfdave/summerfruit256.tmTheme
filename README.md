@@ -6,4 +6,6 @@ A [summerfruit256](http://www.vim.org/scripts/script.php?script_id=2577)-like th
 
 ![screenshot](https://raw.github.com/metadave/summerfruit256.tmTheme/master/screenshot.png)
 
+![screenshot](https://raw.github.com/metadave/summerfruit256.tmTheme/master/screenshot_dark.png)
+
 
